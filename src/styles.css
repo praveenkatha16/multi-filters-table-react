@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  height: 100vh;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.filters {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 8px;
+  row-gap: 8px;
+}
+
+.table {
+  display: block;
+  flex-grow: 1;
+}
+
+.rdt_TableBody {
+  max-height: 1000px;
+  overflow-y: auto;
+}
+
+body {
+  margin: 0;
+}
