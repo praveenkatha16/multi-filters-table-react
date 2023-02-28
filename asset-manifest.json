@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/multi-filters-table-react/static/css/main.3d9bef2f.chunk.css",
+    "main.js": "/multi-filters-table-react/static/js/main.e27b0fa8.chunk.js",
+    "main.js.map": "/multi-filters-table-react/static/js/main.e27b0fa8.chunk.js.map",
+    "runtime-main.js": "/multi-filters-table-react/static/js/runtime-main.7d74d6b0.js",
+    "runtime-main.js.map": "/multi-filters-table-react/static/js/runtime-main.7d74d6b0.js.map",
+    "static/js/2.cd186b89.chunk.js": "/multi-filters-table-react/static/js/2.cd186b89.chunk.js",
+    "static/js/2.cd186b89.chunk.js.map": "/multi-filters-table-react/static/js/2.cd186b89.chunk.js.map",
+    "index.html": "/multi-filters-table-react/index.html",
+    "static/css/main.3d9bef2f.chunk.css.map": "/multi-filters-table-react/static/css/main.3d9bef2f.chunk.css.map",
+    "static/js/2.cd186b89.chunk.js.LICENSE.txt": "/multi-filters-table-react/static/js/2.cd186b89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d74d6b0.js",
+    "static/js/2.cd186b89.chunk.js",
+    "static/css/main.3d9bef2f.chunk.css",
+    "static/js/main.e27b0fa8.chunk.js"
+  ]
+}
